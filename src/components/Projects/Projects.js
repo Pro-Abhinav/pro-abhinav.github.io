@@ -1,11 +1,11 @@
 import React from 'react'
 
-const about = () => {
+const Projects = () => {
     return (
         <div>
-            About Works!
+            Projects Works!
         </div>
     )
 }
 
-export default about
+export default Projects
